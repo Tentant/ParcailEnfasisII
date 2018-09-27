@@ -1,4 +1,2 @@
-*.class
-SolucionParcialEnfasis/build/classes/.netbeans_automatic_build
-SolucionParcialEnfasis/build/classes/.netbeans_update_resources
-SolucionParcialEnfasis/nbproject/private/private.properties
+/SolucionParcialEnfasis/nbproject/private/
+/SolucionParcialEnfasis/build/
